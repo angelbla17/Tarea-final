@@ -1,0 +1,61 @@
+
+
+     
+     		*{padding: 0;
+     			margin: 0;
+     		}
+     		h1{
+     			text-align: center;
+     		}
+     		div{
+     			padding: 10px }
+            p{text-align: center;}
+            a{background: white; padding: 7px; margin: 7px}
+
+
+
+     	.parteInicio{
+     		background:  #d2cfcf; padding: 15px;
+     	   }
+
+     	   .parteContenido{
+     	   	background:  #ea6060; padding: 15px;
+     	   }
+     	   .contenido1{
+     	   	background: white; text-align: center; align-content: justify; margin: 15px;
+     	   }
+           .contenido2{
+                background: white; text-align: center; align-content: justify; margin: 15px;
+           }
+           .contenido3{
+                background: white; text-align: center; align-content: justify; margin: 15px;
+           }
+
+
+     	   .partePiePagina{
+     	   	background: #d2cfcf; padding: 15px; }
+
+           .imagendeporte{text-align: center; width: 500px; height: 350px; margin: 15px;}
+           .imagendeporte2{text-align: center; width: 500px; height: 350px; margin: 15px;}
+           .imagendeporte3{text-align: center; width: 500px; height: 350px; margin: 15px;}
+
+           .imagenmusica{text-align: center; width: 500px; height: 350px; margin: 15px;}
+           .imagenmusica2{text-align: center; width: 500px; height: 350px; margin: 15px;}
+           .imagenmusica3{text-align: center; width: 500px; height: 350px; margin: 15px;}
+
+           .imagenvideojuego{text-align: center; width: 500px; height: 350px; margin: 15px;}
+           .imagenvideojuego2{text-align: center; width: 500px; height: 350px; margin: 15px;}
+           .imagenvideojuego3{text-align: center; width: 500px; height: 350px; margin: 15px;}
+
+           .imagencontacto{text-align: center; width: 300px; height: 200px; margin: 15px;}
+
+
+
+
+
+
+
+
+
+     
+
